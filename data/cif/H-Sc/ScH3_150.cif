@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ScH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.59547830
+_cell_length_b   5.80201064
+_cell_length_c   4.14979994
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScH3
+_chemical_formula_sum   'Sc4 H12'
+_cell_volume   62.49180696
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.50000000  0.37707540  0.25000000  1
+  Sc  Sc1  1  0.00000000  0.12292460  0.75000000  1
+  Sc  Sc2  1  0.00000000  0.87707540  0.25000000  1
+  Sc  Sc3  1  0.50000000  0.62292460  0.75000000  1
+  H  H4  1  0.50000000  0.10656956  0.42786277  1
+  H  H5  1  0.00000000  0.39343044  0.57213723  1
+  H  H6  1  0.00000000  0.39343044  0.92786277  1
+  H  H7  1  0.50000000  0.10656956  0.07213723  1
+  H  H8  1  0.50000000  0.31677215  0.75000000  1
+  H  H9  1  0.00000000  0.18322785  0.25000000  1
+  H  H10  1  0.00000000  0.60656956  0.42786277  1
+  H  H11  1  0.50000000  0.89343044  0.57213723  1
+  H  H12  1  0.50000000  0.89343044  0.92786277  1
+  H  H13  1  0.00000000  0.60656956  0.07213723  1
+  H  H14  1  0.00000000  0.81677215  0.75000000  1
+  H  H15  1  0.50000000  0.68322785  0.25000000  1

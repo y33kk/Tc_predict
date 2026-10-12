@@ -1,0 +1,10 @@
+formula,cif_file,pressure_GPa,Tc_K
+CaH6,data/cif/Ca-H/CaH6_100.cif,100,253
+CaH6,data/cif/Ca-H/CaH6_135.cif,135,236
+TbH6,data/cif/H-Tb/TbH6_250.cif,250,128
+TbH6,data/cif/H-Tb/TbH6_300.cif,300,147
+TiH2,data/cif/H-Ti/TiH2_0.cif,0,7
+H3Se,data/cif/H-Se/H3Se_170.cif,170,145
+H3Se,data/cif/H-Se/H3Se_200.cif,200,113
+H3Se,data/cif/H-Se/H3Se_250.cif,250,111
+H3Se,data/cif/H-Se/H3Se_300.cif,300,110
